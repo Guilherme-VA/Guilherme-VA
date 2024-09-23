@@ -1,4 +1,4 @@
-<h1 align="center">hi! 👋 i'm guilherme</h1>
+<h1 align="center">hi! 👋 i'm guilherme!</h1>
 <h3 align="center">a dev from brazil!</h3>
 
 - currently working @ **BovDB**
